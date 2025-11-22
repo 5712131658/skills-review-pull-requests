@@ -16,6 +16,8 @@ _Collaborate and work together on GitHub._
 <!--
   <<< Author notes: Step 6 >>>
   Start this step by acknowledging the previous step.
+  yes
+  
   Define terms and link to docs.github.com.
 -->
 
